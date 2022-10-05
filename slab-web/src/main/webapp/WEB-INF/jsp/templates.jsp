@@ -16,6 +16,6 @@
 		<button onClick="location.href='/login'">네이버 로그인</button>
 	</div>
 </div>
-<jsp:include page="/WEB-INF/jsp/include/footer.jsp" />
+<div class="header">Footer</div>
 </body>
 </html>
