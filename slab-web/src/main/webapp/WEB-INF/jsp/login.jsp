@@ -10,5 +10,6 @@
 <body>
 <jsp:include page="/WEB-INF/jsp/include/header.jsp" />
 로그인화면
+<jsp:include page="/WEB-INF/jsp/include/footer.jsp" />
 </body>
 </html>
